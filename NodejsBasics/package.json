@@ -1,0 +1,20 @@
+{
+  "name": "nodejsbasics",
+  "version": "1.0.0",
+  "description": "basics of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "jayesh",
+  "license": "ISC",
+  "dependencies": {
+    "@startree-ui/remote-managed-ui": "^1.9.1",
+    "axios": "^0.27.2",
+    "lorem-ipsum": "^2.0.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
